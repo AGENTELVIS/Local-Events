@@ -2,7 +2,12 @@
 Project created using Vite + React
 Styling - Tailwind CSS 
 
+To run the Project first you need to either clone the repo using terminal 'git clone https://github.com/AGENTELVIS/Local-Events.git' 
+then cd Local-Events cd loccal-events to get to the root
 
+Second Install the dependencies using npm install
+Once the dependecies are installed you can run using npm run dev
+go to http://localhost:5173/ to view the running project
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
